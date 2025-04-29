@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritesh-22893
 - 👀 I’m interested in MERN stack.
 - 🌱 I’m currently learning MERN.
-- 📫 visit my portfolio at www.riteshpokhrel0.com.np
+- 📫 visit my portfolio at www.pokhrelritesh.com.np
 
 
 <!---
