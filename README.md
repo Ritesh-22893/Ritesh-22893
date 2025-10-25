@@ -33,8 +33,8 @@ Currently exploring advanced **React** patterns, **Node.js** architecture, and *
 ---
 
 ### 🚀 Featured Projects  
-🟢 **[Food2Hunger](www.github.com/Ritesh-22893/Food2Hunger)** – Platform focused on reducing food waste and feeding the needy.  
-🟢 **[Codolearn](www.github.com/Ritesh-22893/CODOLEARN)** – React-based interactive learning platform for beginners.  
+🟢 **[Food2Hunger](https://github.com/Ritesh-22893/Food2Hunger)** – Platform focused on reducing food waste and feeding the needy.  
+🟢 **[Codolearn](https://github.com/Ritesh-22893/CODOLEARN)** – React-based interactive learning platform for beginners.  
 🟢 **[Portfolio Website](https://www.pokhrelritesh.com.np)** – Responsive personal portfolio built with subtle animations and a clean UI.  
 
 ---
@@ -56,7 +56,7 @@ Currently exploring advanced **React** patterns, **Node.js** architecture, and *
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="mailto:riteshpokhrel22893@gmail.com">
+  <a href="mailto:riteshpokhrel73@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ritesh-pokhrel-5831b8294/">
