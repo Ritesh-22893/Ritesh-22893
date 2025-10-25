@@ -1,13 +1,14 @@
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Ritesh Pokhrel</h1>
 <h3 align="center">💻 Full-Stack Developer (MERN) | CSIT Student | Open-Source Enthusiast</h3>
+<a href="www.pokhrelritesh.com.np"> <h3> Visit protfolio website </h3> </a>
 
 ---
 
 ### 🌱 About Me  
 I'm a Computer Science student passionate about creating clean, functional, and user-centered web applications.  
 I enjoy working across the stack — designing intuitive interfaces and building scalable backends.  
-Currently exploring advanced **React patterns**, **Node.js** architecture, and **Mongo DB **.
+Currently exploring advanced **React patterns**, **Node.js** architecture, and **Mongo DB**.
 
 ---
 
@@ -27,9 +28,9 @@ Currently exploring advanced **React patterns**, **Node.js** architecture, and *
 ---
 
 ### 🚀 Featured Projects  
-🟢 **[Food2Hunger](#)** – Platform for eradicating hunger.  
-🟢 **[codolearn](www.codolearn.vercel.com)** – react based learning platform.  
-🟢 **[Portfolio Website](www.pokhrelritesh.com.np)** – Responsive personal portfolio built with React and Tailwind CSS.  
+🟢 **[Food2Hunger]** – Platform for eradicating hunger.  
+🟢 **[codolearn]** – react based learning platform.  
+🟢 **[Portfolio website]** – Responsive personal portfolio built with subtle animation and eye-catching UI.  
 
 ---
 
