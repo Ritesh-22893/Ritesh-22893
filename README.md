@@ -1,14 +1,19 @@
 <!-- Intro -->
 <h1 align="center">👋 Hi, I'm Ritesh Pokhrel</h1>
 <h3 align="center">💻 Full-Stack Developer (MERN) | CSIT Student | Open-Source Enthusiast</h3>
-<a href="www.pokhrelritesh.com.np"> <h3> Visit protfolio website </h3> </a>
+
+<p align="center">
+  <a href="https://www.pokhrelritesh.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-2E8B57?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ### 🌱 About Me  
 I'm a Computer Science student passionate about creating clean, functional, and user-centered web applications.  
 I enjoy working across the stack — designing intuitive interfaces and building scalable backends.  
-Currently exploring advanced **React patterns**, **Node.js** architecture, and **Mongo DB**.
+Currently exploring advanced **React** patterns, **Node.js** architecture, and **MongoDB**.
 
 ---
 
@@ -28,16 +33,16 @@ Currently exploring advanced **React patterns**, **Node.js** architecture, and *
 ---
 
 ### 🚀 Featured Projects  
-🟢 **[Food2Hunger]** – Platform for eradicating hunger.  
-🟢 **[codolearn]** – react based learning platform.  
-🟢 **[Portfolio website]** – Responsive personal portfolio built with subtle animation and eye-catching UI.  
+🟢 **[Food2Hunger](www.github.com/Ritesh-22893/Food2Hunger)** – Platform focused on reducing food waste and feeding the needy.  
+🟢 **[Codolearn](www.github.com/Ritesh-22893/CODOLEARN)** – React-based interactive learning platform for beginners.  
+🟢 **[Portfolio Website](https://www.pokhrelritesh.com.np)** – Responsive personal portfolio built with subtle animations and a clean UI.  
 
 ---
 
 ### ⚙️ Currently Working On  
-- Improving UI/UX and frontend optimization  
-- Building full stack web app  
-- Deploying apps on cloud platforms like Render or Vercel  
+- UI/UX improvements and frontend optimization  
+- Developing full-stack web applications  
+- Cloud deployment on Render and Vercel  
 
 ---
 
@@ -51,9 +56,18 @@ Currently exploring advanced **React patterns**, **Node.js** architecture, and *
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="mailto:riteshpokhrel22893@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Ritesh-22893"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:riteshpokhrel22893@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-pokhrel-5831b8294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_riteshpokhrel_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ritesh-22893">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
